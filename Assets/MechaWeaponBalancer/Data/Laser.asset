@@ -10,12 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: de2791a57d228d34799ccf617424a1d4, type: 3}
-  m_Name: RifleData
+  m_Name: Laser
   m_EditorClassIdentifier: 
-  weaponName: 
-  icon: {fileID: 0}
-  damage: 20
-  attackRate: 5
-  range: 100
-  maxAmmo: 30
-  infiniteAmmo: 0
+  weaponName: Laser
+  type: 0
+  description: 
+  damage: 10
+  attackRate: 1
+  range: 10
+  weight: 1
+  ammo: 30
+  reloadTime: 2
+  accuracy: 100
+  knockback: 5
+  stunTime: 0.2
+  comboCount: 3
+  swingAngle: 120
+  dps: 0

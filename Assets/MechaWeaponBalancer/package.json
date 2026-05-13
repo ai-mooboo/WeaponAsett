@@ -1,0 +1,10 @@
+{
+  "name": "com.mecha.weaponbalancer",
+  "version": "1.0.0",
+  "displayName": "Mecha Weapon Balancer",
+  "description": "Weapon balancing and database tool.",
+  "unity": "2022.3",
+  "author": {
+    "name": "YourTeam"
+  }
+}

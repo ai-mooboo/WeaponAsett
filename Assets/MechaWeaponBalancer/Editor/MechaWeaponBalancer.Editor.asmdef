@@ -1,0 +1,16 @@
+{
+    "name": "MechaWeaponBalancer.Editor.asmdef",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c0cdee93c148fc1478e03013405bc754"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
