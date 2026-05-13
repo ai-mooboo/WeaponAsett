@@ -1,0 +1,17 @@
+{
+    "weaponName": "Rifle",
+    "type": 0,
+    "description": "",
+    "damage": 10.0,
+    "attackRate": 1.0,
+    "range": 10.0,
+    "weight": 1.0,
+    "ammo": 30,
+    "reloadTime": 2.0,
+    "accuracy": 100.0,
+    "knockback": 5.0,
+    "stunTime": 0.20000000298023225,
+    "comboCount": 3,
+    "swingAngle": 120.0,
+    "dps": 0.0
+}
